@@ -1,5 +1,5 @@
 ###   
-<h1 align="center">
+<h1 align="left">
     Hi there 👋 I'm
     <a href="https://www.linkedin.com/in/vanessa-k-b83346252/" target="_blank">Vanna 😃️</a>
 </h1>
