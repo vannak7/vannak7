@@ -33,5 +33,5 @@
   
 </div>
   
-  ![snake animation](https://github.com/vannak7/vannak7/blob/output-contribution-grid-snake.svg)
+  ![snake animation](https://github.com/vannak7/vannak7/blob/main/.github/workflows/cobrinha.yml)
 
