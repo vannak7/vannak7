@@ -1,4 +1,8 @@
-### Hi there 👋 I'm Vanna 
+###   
+<h1 align="center">
+    Hi there 👋 I'm
+    <a href="https://www.linkedin.com/in/vanessa-k-b83346252/" target="_blank">Vanna 😃️</a>
+</h1>
 
 <div>
   <a href="https://github.com/vannak7">
@@ -30,5 +34,18 @@
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+  
+
+<div align="center">
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+</div>
+ 
+  
+  
+  
+  
+
+  
+  
   
 
